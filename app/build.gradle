@@ -103,4 +103,9 @@ dependencies {
 
     // Fused
     implementation "com.google.android.gms:play-services-location:21.0.1"
+
+    // Mockk
+    testImplementation "io.mockk:mockk:1.9.3"
+    // Test
+    testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.4"
 }
