@@ -1,0 +1,4 @@
+ext.versions = [
+        composeVm        : '2.6.1',
+        compose          : '1.4.3',
+]
